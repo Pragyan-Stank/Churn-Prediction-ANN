@@ -1,5 +1,7 @@
 # Churn Prediction using Artificial Neural Network (ANN)
 
+Here's the streamlit app: https://churn-prediction-ann-bbg8ceetxb7teqvrmkpudv.streamlit.app/
+
 ## 📌 Project Overview
 This project predicts whether a customer is likely to **churn** (leave a service) based on their data.  
 The model is built using an **Artificial Neural Network (ANN)** and trained on a labeled dataset.
@@ -15,7 +17,7 @@ The model is built using an **Artificial Neural Network (ANN)** and trained on a
 - **TensorFlow / Keras**
 - **NumPy**
 - **Pandas**
-- **Matplotlib / Seaborn** (for visualization)
+- **Tensorboard** (for visualization)
 
 
 ## 📊 Dataset
@@ -34,6 +36,7 @@ The dataset contains customer-related features such as:
 3. Run the streamlit app
    ```bash
    streamlit app.py
+
 
 
 
